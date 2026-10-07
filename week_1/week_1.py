@@ -1,6 +1,7 @@
 dna = "AGGGTGCTGCTAGCGGCGCG"
-print("DNA Sequence:",dna)
-print("Lenght",len(dna))
+
+print("DNA Sequence:", dna)
+print("Length:", len(dna))
 
 a_count = 0
 t_count = 0
